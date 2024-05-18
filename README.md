@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently focusing on **DSA**<br><br>🌱 I’m currently learning **Vanilla JavaScript , React , Mastering CSS , NodeJs**<br><br>👯 I’m looking to collaborate on [Furniro](https://www.figma.com/file/G4LVd5fahSsqXfKEMLxOAC/Furniture-eCommerce-Website-UI-(Community)?type=design&node-id=1-3&mode=design&t=imfxS3SBQTfrMlvq-0)<br><br>🤝 I’m looking for help with [GreenShop](https://www.figma.com/file/BeJ7F91dnIOSwVdvcRwMqn/GreenShop-(Copy)?type=design&mode=design&t=imfxS3SBQTfrMlvq-0)<br><br>📫 How to reach me **xolmuhammedovv@gmail.com**<br><br>⚡ Fun fact **I think i am a good friend with anyone**
+🌱 I’m currently learning **Vanilla JavaScript , React , Mastering CSS , NodeJs**<br><br>👯 I’m looking to collaborate on [Furniro](https://www.figma.com/file/G4LVd5fahSsqXfKEMLxOAC/Furniture-eCommerce-Website-UI-(Community)?type=design&node-id=1-3&mode=design&t=imfxS3SBQTfrMlvq-0)<br><br>🤝 I’m looking for help with [GreenShop](https://www.figma.com/file/BeJ7F91dnIOSwVdvcRwMqn/GreenShop-(Copy)?type=design&mode=design&t=imfxS3SBQTfrMlvq-0)<br><br>📫 How to reach me **xolmuhammedovv@gmail.com**<br><br>⚡ Fun fact **I think i am a good friend with anyone**
 
 
 ## 🌐 Socials:
